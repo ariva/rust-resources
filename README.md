@@ -8,7 +8,7 @@
 * https://godbolt.org/ - code -> asm - check what happens behind the scenes when you compile the code
 * https://doc.rust-lang.org/rust-by-example/ - rust by example
 * https://github.com/rust-lang/rustlings/
-
+*
 * https://doc.rust-lang.org/cargo/index.html
 * https://doc.rust-lang.org/std/index.html
 * https://doc.rust-lang.org/stable/embedded-book/
@@ -39,19 +39,19 @@
 * Parser: https://crates.io/crates/nom
 * Text: https://crates.io/crates/textwrap
 * Http(s): https://crates.io/crates/reqwest
-
+*
 * Command-Line Arg Parser: https://crates.io/crates/clap
 * Data-parallelism library: https://docs.rs/rayon/latest/rayon/
-
+*
 * WebServer framework: https://crates.io/crates/actix-web
 * WebServer framework: https://rocket.rs/
-
+*
 * DB ORM: https://crates.io/crates/diesel
 * DB: https://crates.io/crates/sqlx (SQLx is an async, pure Rust SQL crate featuring compile-time checked queries without a DSL)
-
+*
 * Audits your crates: https://crates.io/crates/cargo-audit
-
-* Gamer Engine: https://bevyengine.org/
+*
+* Game Engine: https://bevyengine.org/
 * A cross-platform GUI library: https://crates.io/crates/iced
 
 
